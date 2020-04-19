@@ -26,6 +26,7 @@ router_equipment = "Модели оборудования"
 providers = "Провайдеры"
 dogovors = "Договоры"
 dop_sogl = "Доп.соглашения"
+hacks = "Хаки"
 repo = "Репозиторий"
 
 [_disallowed_tables]
