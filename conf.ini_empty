@@ -18,8 +18,9 @@ driver=mysqli
 [_tables]
 departments = "Подразделения"
 routers = "Маршрутизаторы"
-lans = "ЛВС"
-wans = "Внешние каналы"
+nets = "Подсети"
+lans = "Локальные интерфейсы"
+wans = "Внешние интерфейсы"
 vpns = "Виртуальные узлы сети"
 tunnels = "Туннели"
 router_equipment = "Модели оборудования"
