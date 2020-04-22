@@ -1,7 +1,7 @@
 <?php
-class tables_lans {
+class tables_interfaces {
   function getTitle(&$record) {
-    return 'Локальный интерфейс: '.$record->val('name');
+    return 'Интерфейс: '.$record->val('name');
   }
 
   //----------------------------------------------
