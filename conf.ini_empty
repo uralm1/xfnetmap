@@ -29,6 +29,7 @@ dogovors = "Договоры"
 dop_sogl = "Доп.соглашения"
 hacks = "Хаки"
 repo = "Репозиторий"
+staticip = "Учёт IP/устройств"
 
 [_disallowed_tables]
 ;r1 = "os_types"
