@@ -28,6 +28,7 @@ providers = "Провайдеры"
 dogovors = "Договоры"
 dop_sogl = "Доп.соглашения"
 hacks = "Хаки"
+r2d2_speeds = "Классы трафика R2D2"
 repo = "Репозиторий"
 staticip = "Учёт IP/устройств"
 
